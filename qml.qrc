@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/qmldir</file>
+        <file>CardResource/XMLFile.xml</file>
+        <file>qml/ModelViewCards.qml</file>
+        <file>qml/MixButton.qml</file>
+        <file>qml/DelegateCard.qml</file>
+        <file>qml/StartButton.qml</file>
+        <file>qml/ExitButton.qml</file>
+    </qresource>
+</RCC>

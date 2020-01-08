@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Deck for card game blackjack-->
+<deck>
+  <!--clubs-->
+  <card number="1">
+    <name> two </name>
+    <suit> Clubs </suit>
+    <worth> 2 </worth>
+    <pathImage>/twoClubs</pathImage>
+  </card>
+
+  <card number="2">
+    <name> three </name>
+    <suit> Clubs </suit>
+    <worth> 3 </worth>
+	<pathImage>/threeClubs</pathImage>
+  </card>
+
+  <card number="3">
+    <name> four </name>
+    <suit> Clubs </suit>
+    <worth> 4 </worth>
+	<pathImage>/fourClubs</pathImage>
+  </card>
+
+  <card number="4">
+    <name> five </name>
+    <suit> Clubs </suit>
+    <worth> 5 </worth>
+	<pathImage>/fiveClubs</pathImage>
+  </card>
+
+  <card number="5">
+    <name> six </name>
+    <suit> Clubs </suit>
+    <worth> 6 </worth>
+	<pathImage>/sixClubs</pathImage>
+  </card>
+
+  <card number="6">
+    <name> seven </name>
+    <suit> Clubs </suit>
+    <worth> 7 </worth>
+	<pathImage>/sevenClubs</pathImage>
+  </card>
+
+  <card number="7">
+    <name> eight </name>
+    <suit> Clubs </suit>
+    <worth> 8 </worth>
+	<pathImage>/eightClubs</pathImage>
+  </card>
+
+  <card number="8">
+    <name> nine </name>
+    <suit> Clubs </suit>
+    <worth> 9 </worth>
+	<pathImage>/nineClubs</pathImage>
+  </card>
+
+  <card number="9">
+    <name> ten </name>
+    <suit> Clubs </suit>
+    <worth> 10 </worth>
+	<pathImage>/tenClubs</pathImage>
+  </card>
+
+  <card number="10">
+    <name> Jack </name>
+    <suit> Clubs </suit>
+    <worth> 10 </worth>
+	<pathImage>/JackClubs</pathImage>
+  </card>
+
+  <card number="11">
+    <name> Queen </name>
+    <suit> Clubs </suit>
+    <worth> 10 </worth>
+	<pathImage>/QueenClubs</pathImage>
+  </card>
+
+  <card number="12">
+    <name> King </name>
+    <suit> Clubs </suit>
+    <worth> 10 </worth>
+	<pathImage>/KingClubs</pathImage>
+  </card>
+
+  <card number="13">
+    <name> Ace </name>
+    <suit> Clubs </suit>
+    <worth> 11 </worth>
+	<pathImage>/AceClubs</pathImage>
+  </card>
+
+  <!--diamonds-->
+  <card number="14">
+    <name> two </name>
+    <suit> Diamonds </suit>
+    <worth> 2 </worth>
+	<pathImage>/twoDiamonds</pathImage>
+  </card>
+
+  <card number="15">
+    <name> three </name>
+    <suit> Diamonds </suit>
+    <worth> 3 </worth>
+	<pathImage>/threeDiamonds</pathImage>
+  </card>
+
+  <card number="16">
+    <name> four </name>
+    <suit> Diamonds </suit>
+    <worth> 4 </worth>
+	<pathImage>/fourDiamonds</pathImage>
+  </card>
+
+  <card number="17">
+    <name> five </name>
+    <suit> Diamonds </suit>
+    <worth> 5 </worth>
+	<pathImage>/fiveDiamonds</pathImage>
+  </card>
+
+  <card number="18">
+    <name> six </name>
+    <suit> Diamonds </suit>
+    <worth> 6 </worth>
+	<pathImage>/sixDiamonds</pathImage>
+  </card>
+
+  <card number="19">
+    <name> seven </name>
+    <suit> Diamonds </suit>
+    <worth> 7 </worth>
+	<pathImage>/sevenDiamonds</pathImage>
+  </card>
+
+  <card number="20">
+    <name> eight </name>
+    <suit> Diamonds </suit>
+    <worth> 8 </worth>
+	<pathImage>/eightDiamonds</pathImage>
+  </card>
+
+  <card number="21">
+    <name> nine </name>
+    <suit> Diamonds </suit>
+    <worth> 9 </worth>
+	<pathImage>/nineDiamonds</pathImage>
+  </card>
+
+  <card number="22">
+    <name> ten </name>
+    <suit> Diamonds </suit>
+    <worth> 10 </worth>
+	<pathImage>/tenDiamonds</pathImage>
+  </card>
+
+  <card number="23">
+    <name> Jack </name>
+    <suit> Diamonds </suit>
+    <worth> 10 </worth>
+	<pathImage>/JackDiamonds</pathImage>
+  </card>
+
+  <card number="24">
+    <name> Queen </name>
+    <suit> Diamonds </suit>
+    <worth> 10 </worth>
+    <pathImage>/QueenDiamonds</pathImage>
+  </card>
+
+  <card number="25">
+    <name> King </name>
+    <suit> Diamonds </suit>
+    <worth> 10 </worth>
+    <pathImage>/KingDiamonds</pathImage>
+  </card>
+
+  <card number="26">
+    <name> Ace </name>
+    <suit> Diamonds </suit>
+    <worth> 11 </worth>
+    <pathImage>/AceDiamonds</pathImage>
+  </card>
+
+  <!--hearts-->
+  <card number="27">
+    <name> two </name>
+    <suit> Hearts </suit>
+    <worth> 2 </worth>
+	<pathImage>/twoHearts</pathImage>
+  </card>
+
+  <card number="28">
+    <name> three </name>
+    <suit> Hearts </suit>
+    <worth> 3 </worth>
+	<pathImage>/threeHearts</pathImage>
+  </card>
+
+  <card number="29">
+    <name> four </name>
+    <suit> Hearts </suit>
+    <worth> 4 </worth>
+	<pathImage>/fourHearts</pathImage>
+  </card>
+
+  <card number="30">
+    <name> five </name>
+    <suit> Hearts </suit>
+    <worth> 5 </worth>
+	<pathImage>/fiveHearts</pathImage>
+  </card>
+
+  <card number="31">
+    <name> six </name>
+    <suit> Hearts </suit>
+    <worth> 6 </worth>
+	<pathImage>/sixHearts</pathImage>
+  </card>
+
+  <card number="32">
+    <name> seven </name>
+    <suit> Hearts </suit>
+    <worth> 7 </worth>
+	<pathImage>/sevenHearts</pathImage>
+  </card>
+
+  <card number="33">
+    <name> eight </name>
+    <suit> Hearts </suit>
+    <worth> 8 </worth>
+	<pathImage>/eightHearts</pathImage>
+  </card>
+
+  <card number="34">
+    <name> nine </name>
+    <suit> Hearts </suit>
+    <worth> 9 </worth>
+	<pathImage>/nineHearts</pathImage>
+  </card>
+
+  <card number="35">
+    <name> ten </name>
+    <suit> Hearts </suit>
+    <worth> 10 </worth>
+	<pathImage>/tenHearts</pathImage>
+  </card>
+
+  <card number="36">
+    <name> Jack </name>
+    <suit> Hearts </suit>
+    <worth> 10 </worth>
+	<pathImage>/JackHearts</pathImage>
+  </card>
+
+  <card number="37">
+    <name> Queen </name>
+    <suit> Hearts </suit>
+    <worth> 10 </worth>
+	<pathImage>/QueenHearts</pathImage>
+  </card>
+
+  <card number="38">
+    <name> King </name>
+    <suit> Hearts </suit>
+    <worth> 10 </worth>
+	<pathImage>/KingHearts</pathImage>
+  </card>
+
+  <card number="39">
+    <name> Ace </name>
+    <suit> Hearts </suit>
+    <worth> 11 </worth>
+	<pathImage>/AceHearts</pathImage>
+  </card>
+
+  <!--spades-->
+  <card number="40">
+    <name> two </name>
+    <suit> Spades </suit>
+    <worth> 2 </worth>
+	<pathImage>/twoSpades</pathImage>
+  </card>
+
+  <card number="41">
+    <name> three </name>
+    <suit> Spades </suit>
+    <worth> 3 </worth>
+	<pathImage>/threeSpades</pathImage>
+  </card>
+
+  <card number="42">
+    <name> four </name>
+    <suit> Spades </suit>
+    <worth> 4 </worth>
+        <pathImage>/fourSpades</pathImage>
+  </card>
+
+  <card number="43">
+    <name> five </name>
+    <suit> Spades </suit>
+    <worth> 5 </worth>
+	<pathImage>/fiveSpades</pathImage>
+  </card>
+
+  <card number="44">
+    <name> six </name>
+    <suit> Spades </suit>
+    <worth> 6 </worth>
+	<pathImage>/sixSpades</pathImage>
+  </card>
+
+  <card number="45">
+    <name> seven </name>
+    <suit> Spades </suit>
+    <worth> 7 </worth>
+	<pathImage>/sevenSpades</pathImage>
+  </card>
+
+  <card number="46">
+    <name> eight </name>
+    <suit> Spades </suit>
+    <worth> 8 </worth>
+	<pathImage>/eightSpades</pathImage>
+  </card>
+
+  <card number="47">
+    <name> nine </name>
+    <suit> Spades </suit>
+    <worth> 9 </worth>
+	<pathImage>/nineSpades</pathImage>
+  </card>
+
+  <card number="48">
+    <name> ten </name>
+    <suit> Spades </suit>
+    <worth> 10 </worth>
+	<pathImage>/tenSpades</pathImage>
+  </card>
+
+  <card number="49">
+    <name> Jack </name>
+    <suit> Spades </suit>
+    <worth> 10 </worth>
+	<pathImage>/JackSpades</pathImage>
+  </card>
+
+  <card number="50">
+    <name> Queen </name>
+    <suit> Spades </suit>
+    <worth> 10 </worth>
+	<pathImage>/QueenClubs</pathImage>
+  </card>
+
+  <card number="51">
+    <name> King </name>
+    <suit> Spades </suit>
+    <worth> 10 </worth>
+    <pathImage>/KingSpades</pathImage>
+  </card>
+
+  <card number="52">
+    <name> Ace </name>
+    <suit> Spades </suit>
+    <worth> 11 </worth>
+    <pathImage>/AceSpades</pathImage>
+  </card>
+
+
+</deck>

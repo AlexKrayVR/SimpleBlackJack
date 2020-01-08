@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>IconsApp/refresh-button1.png</file>
+        <file>IconsApp/refresh-button2.png</file>
+        <file>IconsApp/shuffle1.png</file>
+        <file>IconsApp/shuffle2.png</file>
+        <file>IconsApp/exit1.png</file>
+        <file>IconsApp/exit2.png</file>
+    </qresource>
+</RCC>
